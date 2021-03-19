@@ -3,6 +3,8 @@
 - Me llamo alan Colimodio, soy estudiandte de ingeniera, trabajo en Terminal Zarate soy lider funcional del equipo de desarrollo y aplicaciones.
 - Fui desarrollador durante varios años (vbnet, c#, javascript, typescript, etc etc)
 - vivo en Zarate, soy hincha de river, juego al futbol de vez en cuando.
+- Poca tele, los simpson o tbt de fondo.
+- Miro las series que estan de moda.
 - No mucho mas interesante para contar.
 
 
